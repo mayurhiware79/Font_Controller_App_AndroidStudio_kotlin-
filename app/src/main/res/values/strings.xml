@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Font_controller_A79</string>
+
+    <string-array name="font_styles">
+        <item>Normal</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+
+    <string-array name="font_colors">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+</resources>

@@ -17,7 +17,7 @@ A simple Android app that allows users to customize text appearance by changing 
 ## 🖼️ App Preview
 
 <p align="center">
-  <img src="preview1.png" width="300"/>
+  <img src="preview1.png"/>
 </p>
 
 ---
